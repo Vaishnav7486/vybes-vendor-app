@@ -1,5 +1,6 @@
 import React from 'react';
 import { Avatar } from '@nextui-org/react';
+import './Sidebar.css'
 
 const Sidebar = () => {
    return (
@@ -14,6 +15,11 @@ const Sidebar = () => {
          </div>
          <div className="justify-center">
             <h6 className="head-style">Shahanas Bridal Jwelers</h6>
+         </div>
+         <div className='navbar-lists'>
+          <span>Search and edit</span>
+          <span>Add products</span>
+          <button className='s-button'>Logout</button>
          </div>
       </div>
    );
