@@ -1,0 +1,13 @@
+.navbar {
+   height: 15vh;
+   background: linear-gradient(to right, #F6F6F6, #DCDCDC,#F6F6F6);
+   color: #000;
+   padding: 0 2rem;
+   justify-content: space-around;
+   display: flex;
+   border-radius: 4px;
+}
+.vybes-name{
+  font-size: 50px;
+  font-weight: bold;
+}

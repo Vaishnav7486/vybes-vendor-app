@@ -1,0 +1,15 @@
+.dashboard-1{
+  background: #fff;
+  color: #fff;
+  height: 85vh;
+  background: linear-gradient(to right, #06021E, #030112,#06021E);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.dashboard-sub{
+  background: #fff;
+  height: 90%;
+  width: 80%;
+  border-radius: 10px;
+}
